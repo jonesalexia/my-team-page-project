@@ -1,0 +1,55 @@
+@media only screen and (max-width: 700px) {
+	body {
+        overflow-x: hidden;
+		align-items: center;
+	}
+
+	#head-contain {
+		left: 50px;
+		top: 110px;
+	}
+
+	#main-head {
+		left: 50px;
+		top: 200px;
+	}
+
+	#main-body {
+		left: 50px;
+		top: 240px;
+	}
+
+	#col-1 {
+		left: 50px;
+		top: 400px;
+	}
+
+	#col-2 {
+		left: 350px;
+		top: 500px;
+	}
+
+	#col-3 {
+		left: 50px;
+		top: 900px;
+	}
+
+	#col-4 {
+		left: 350px;
+		top: 965px;
+	}
+
+	#col-5 {
+		left: 50px;
+		top: 1400px;
+	}
+
+	#col-6 {
+		left: 350px;
+		top: 1465px;
+	}
+
+	.footer {
+		padding-top: 2050px;
+	}
+}

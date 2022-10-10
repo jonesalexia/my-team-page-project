@@ -1,0 +1,242 @@
+body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+	align-items: center;
+	box-sizing: border-box;
+}
+
+header {
+	margin: 0;
+	padding: 0;
+}
+
+#head-contain {
+	position: absolute;
+	width: 278px;
+	height: 47px;
+	left: 243px;
+	top: 110px;
+	font-family: PT Serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	line-height: 48px;
+	letter-spacing: -0.045em;
+	color: #000000;
+}
+
+#main-head {
+	position: absolute;
+	width: 117px;
+	height: 27px;
+	left: 736px;
+	top: 110px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	text-transform: uppercase;
+	color: #000000;
+}
+
+#main-body {
+	position: absolute;
+	width: 439px;
+	height: 87px;
+	left: 736px;
+	top: 147px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 27px;
+	color: #000000;
+}
+
+figcaption,
+.work-position {
+	position: absolute;
+}
+
+figcaption {
+	width: 128px;
+	height: 27px;
+	font-family: Poppins;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 18px;
+	line-height: 27px;
+	color: #000000;
+}
+
+.work-position {
+	width: 102px;
+	height: 16px;
+	font-family: PT Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 16px;
+	text-transform: uppercase;
+	color: #000000;
+	transform: rotate(90deg);
+}
+
+#col-1 {
+	position: absolute;
+	width: 238px;
+	height: 426.5px;
+	left: 240px;
+	top: 333px;
+}
+
+#wp-1 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-1 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+}
+
+#col-2 {
+	position: absolute;
+	width: 305.21px;
+	height: 471px;
+	left: 571px;
+	top: 438px;
+}
+
+#wp-2 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-2 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+}
+
+#col-3 {
+	position: absolute;
+	width: 300.81px;
+	height: 399.96px;
+	left: 901px;
+	top: 333px;
+}
+
+#wp-3 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-3 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+}	
+
+#col-4 {
+	position: absolute;
+	width: 276.68px;
+	height: 469px;
+	left: 241px;
+	top: 848px;
+}
+
+#wp-4 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-4 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+	
+}
+
+#col-5 {
+	position: absolute;
+	width: 305.21px;
+	height: 471px;
+	left: 571px;
+	top: 950px;
+}
+
+#wp-5 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-5 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+	
+}
+
+#col-6 {
+	position: absolute;
+	width: 300.81px;
+	height: 399.96px;
+	left: 901px;
+	top: 848px;
+}
+
+#wp-6 {
+	width: 102px;
+	height: 16px;
+	left: 205px;
+	top: 48px;
+}
+
+#img-6 {
+	width: 238px;
+	height: 341px;
+	left: 240px;
+	top: 330px;
+
+}
+
+.footer {
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 17px;
+	vertical-align: top;
+	text-align: center;
+	align-items: center;
+	color: #BDBDBD;
+	padding-top: 1450px;
+	padding-bottom: 10px;
+}
+
+a {
+	text-decoration: none;
+	color: #BDBDBD;
+}
+
+a:hover {
+	color: #18a0fb;
+}
